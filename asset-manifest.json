@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kknepal/static/css/main.c4594960.css",
+    "main.js": "/kknepal/static/js/main.1a45d669.js",
+    "static/js/787.d27d0a14.chunk.js": "/kknepal/static/js/787.d27d0a14.chunk.js",
+    "static/media/logo.svg": "/kknepal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kknepal/index.html",
+    "main.c4594960.css.map": "/kknepal/static/css/main.c4594960.css.map",
+    "main.1a45d669.js.map": "/kknepal/static/js/main.1a45d669.js.map",
+    "787.d27d0a14.chunk.js.map": "/kknepal/static/js/787.d27d0a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4594960.css",
+    "static/js/main.1a45d669.js"
+  ]
+}
